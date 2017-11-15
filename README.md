@@ -1,1 +1,3 @@
 # sonic-knitting
+
+Sonic-knitting is an audio interpretation of a knitting pattern. Knitting patterns are essentially algorithms, and a simple rotation algorithm was used to imitate a spiraling knitted cowl using Python. NumPy was employed to generate matrices representing the rows of the pattern. To imitate the act of knitting, the rows were transposed to columns, with the first sound entering alone. As rows are worked, the piece increases in size, and the vertical complexity of the transposition becomes apparent.
