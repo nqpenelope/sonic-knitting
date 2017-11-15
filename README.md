@@ -4,4 +4,4 @@ Sonic-knitting is an audio interpretation of a knitting pattern. Knitting patter
 
 Each tone represents a single stitch. Low tone represents knit stitches; higher tone represents purl stitches. The pattern consists 63 cast-on stitches, with a basic k8p8 rib then worked in the round.
 
-<a href="jenny-bower.com/sonic-knitting">jenny-bower.com/sonic-knitting</a>
+jenny-bower.com/sonic-knitting
